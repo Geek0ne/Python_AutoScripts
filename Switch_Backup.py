@@ -1,10 +1,11 @@
 # ===================================================================================
-# 作者:      聂智来 @ex_zhilai
-# 功能:      备份Cisco交换机配置
+# 作者:      Geek0ne
+# 功能:      批量备份Cisco交换机配置
 # 版本:      Version 2.82
 # 日期:      2024-08-14
-# 运行:      支持到Python <= 3.10  https://docs.python.org/3/library/telnetlib.html      
+# 运行:      支持到Python <= 3.10  详见 https://docs.python.org/3/library/telnetlib.html      
 # ===================================================================================
+
 import telnetlib
 import time
 import os
